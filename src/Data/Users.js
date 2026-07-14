@@ -4,7 +4,7 @@ const usersData = [
     name: 'Chhem Raksa',
     age: 23,
     gender: "Male",
-    email: "chhem.raksa@smart.com"
+    email: "chhem.raksa@gmail.com"
   },
   {
     id:2,
